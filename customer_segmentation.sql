@@ -3,6 +3,7 @@
 -- Description: SQL analysis of customers by region or behavior
 -- Skills Demonstrated:
 -- GROUP BY
+-- ORDER BY
 -- Aggregation functions (COUNT)
 
 -- 1. Create Table
